@@ -1,0 +1,10 @@
+public class methods{
+    static void agecheck(int age){
+        if(age < 18){
+            System.out.println("You are not old enough");
+        }
+        else{
+            System.out.println("You are old enough"); 
+        }
+    }
+}
