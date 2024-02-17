@@ -23,3 +23,14 @@ int main(void)
     printf("!\n");
     printf("-------------------\n");
 }
+
+// void printEven(int arr[]){
+//     //iterate through the array
+//     for(int i = 0; i < 4; i++){
+//         //check if the value is even
+//         if(arr[i] % 2 == 0){
+//             //print even
+//             printf("%d ", arr[i]);
+//         }
+//     }
+// }
